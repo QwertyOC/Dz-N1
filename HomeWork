@@ -1,0 +1,48 @@
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+    setlocale(LC_ALL, "");
+
+   /* N1*/
+    /*float p = 3.14;
+    float Rad;
+    cout << "Введите радиус: ";
+    cin >> Rad;
+
+    cout << "Площадь круга = " << p * (Rad * Rad) << "\n\n";
+    cout << "Длина круга = " << 2 * p * (Rad * Rad) << "\n\n";
+    cout << "Диаметр круга = " << Rad * 2  << "\n\n";*/
+
+
+   /* N2*/
+   /* float a1;
+    cout << "Оценка за первую четверть";
+    cin >> a1;
+    float a2;
+    cout << "Оценка за вторую четверть";
+    cin >> a2;
+    float a3;
+    cout << "Оценка за третью четверть";
+    cin >> a3;
+    float a4;
+    cout << "Оценка за четвертую четверть";
+    cin >> a4;
+
+    cout << "Годовая оценка = " << round((a1 + a2 + a3 + a4) / 4);*/
+
+   /* N3*/
+  /* float b1;
+    cout << "Введите зарплату за первый месяц: ";
+    cin >> b1;
+    float b2;
+    cout << "Введите зарплату за второй месяц: ";
+    cin >> b2;
+    float b3;
+    cout << "Введите зарплату за третий месяц: ";
+    cin >> b3;
+
+    cout << "Общая зарплата: " << b1 + b2 + b3;*/
